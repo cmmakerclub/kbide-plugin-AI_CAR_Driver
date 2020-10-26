@@ -1,0 +1,16 @@
+{
+  "name" : "AI_CAR_Driver",
+  "title": "AI CAR Driver",
+  "category" : "Sensors",
+  "keywords": "AI_CAR_Driver,AI,CAR,Driver,Motor",
+  "description": "บอร์ดที่ช่วยขับมอเตอร์ ได้ทั้ง DC Motor Servo และทั้งยังมี BLE ที่ใช้การต่อกับสมาร์ทโฟนที่การบังคับรถได้ด้วย เหมาะสำหรับเป็นบอร์ดที่ใช่เสริมในการทำ AI RC CAR ได้เป็นอย่างดี",
+  "homepage": "https://github.com/cmmakerclub/kbide-plugin-AI_CAR_Driver",
+  "license": "MIT",
+  "git": "https://github.com/cmmakerclub/kbide-plugin-AI_CAR_Driver",
+  "author": "INEX",
+  "url": "https://www.aiiotshop.com/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-avr","arduino-esp32"],
+  "image" : "/static/display.jpg"
+}
